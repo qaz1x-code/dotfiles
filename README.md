@@ -1,4 +1,4 @@
-## Qaz1x · dotfiles
+## Qaz1x - dotfiles ☕︎
 
 <div align="center">
   <img src="Screenshots/End4.png" width="48%" />
