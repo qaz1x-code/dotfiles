@@ -4,8 +4,6 @@
   <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/WM-Hyprland-00AAFF?style=for-the-badge&logo=wayland&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-fish-4AAE9B?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terminal-foot-2E3440?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/license-MIT-FF2E97?style=for-the-badge" />
 </p>
 
 ## Screenshots
