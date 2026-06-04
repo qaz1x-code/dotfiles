@@ -1,6 +1,6 @@
 ## Qaz1x - dotfiles ☕︎
 
-#Screenshots
+## Screenshots
 
 <div align="center">
   <img src="Screenshots/End4.png" width="48%" />
